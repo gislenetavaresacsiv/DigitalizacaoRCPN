@@ -7,3 +7,5 @@ ___
 Para acessar a Digitalização de livros, acesse o *(Menu RCPN > Digitalização de livros)*.
 
 ![menu](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/MENU.png)
+
+**1° Passo:**
