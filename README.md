@@ -74,10 +74,6 @@ Quando fizer isto criar uma pasta com o número do livro digitalizado e colar as
 
 É muito importante que o caminho da pasta esteja correto, pois se o caminho colocado no campo local, estiver diferente do caminho da pasta criada dentro do seu computador, não será possível realizar a digitalização do livro.
 
-Caso as folhas digitalizadas na pasta estejam com a quantidade divergente das folhas digitalizadas no sistema, vai retornar uma mensagem de atenção para corrigir a divergência e iniciar o processo novamente.
-
-![atencao](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/QUANTIDADE_DIVERGENTE.PNG)
-
 ![local](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/3.PNG)
 
 **f. Posição:** Utilizado para definir a posição dos arquivos digitalizados do scanner para a pasta do computador. **Ex.:** *Ao digitalizar um arquivo do scanner para o computador, ele é digitalizado com o nome file_0001.pdf*, sendo assim, precisamos definir qual a posicao inicial e final para pegar a sequência do arquivo corretamente.
