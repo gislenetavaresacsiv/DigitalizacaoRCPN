@@ -75,3 +75,7 @@ Quando fizer isto criar uma pasta com o número do livro digitalizado e colar as
 ![local](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/3.PNG)
 
 **f. Posição:** Utilizado para definir a posição dos arquivos digitalizados do scanner para a pasta do computador. **Ex.:** *Ao digitalizar um arquivo do scanner para o computador, ele é digitalizado com o nome file_0001.pdf*, sendo assim, precisamos definir qual a posicao inicial e final para pegar a seguencia do arquivo corretamente.
+
+**5° Passo:** *Pesquisar > Confirmar.*
+
+![digitalizado](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/DIGITALIZACAO_REALIZADA_COM_SUCESSO.PNG)
