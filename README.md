@@ -8,14 +8,14 @@ Para acessar a Digitalização de livros, acesse o *(Menu RCPN > Digitalização
 
 ![menu](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/MENU.png)
 
-**1° Passo:** *Configurações no Acsiv sistemas.*
+**1° Passo:** *Configurações no Acsiv.*
 
 Vamos precisar escolher o tipo de documento, para quando acontecer a digitalização o sistema possa inserir no GED o arquivo com o tipo de documento configurado pelo *Menu RCPN > Configurações > aba GED*, conforme imagem abaixo:
 
 ![Confi_GED](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/GED_CONFIGURACOES.PNG)
 
 
-Para selecionar as opções apresentadas no *Menu RCPN > Configurações > aba GED*, é necessário criar os tipos de documentos pelo *(Menu GED > tipos de documentos).* 
+Para selecionar as opções apresentadas no *Menu RCPN > Configurações > aba GED campo GED Livros*, é necessário criar os tipos de documentos pelo *(Menu GED > Tipos de documentos).* 
 
 ![tipo_documentos](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/TIPO_GED.png)
 
@@ -27,7 +27,7 @@ Ao clicar em novo,basta preencher a descrição conforme necessidade e seleciona
 
 ![tipos](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/TIPOS_DOCUMENTOS.PNG)
 
-**2° Passo:** Criação da pasta no computador.
+**2° Passo:** *Criação da pasta no computador*.
 
 Segundo passo é necessário a criação de uma pasta dentro do seu computador, para salvar a digitalização do seu livro físico.
 
@@ -35,7 +35,7 @@ Segundo passo é necessário a criação de uma pasta dentro do seu computador, 
 
 O ideal é criar as pastas conforme imagem anterior, note que no exemplo utilizado, a pasta se encontra em *(\\srvaciv\ondrive\servidoracsiv\ged\rcpn\livros\a)*, o caminho da pasta é o próprio caminho do sistema. Dentro da pasta Livros, se encontra os livros do cartório, cada um, separado por nome e sua letra.
 
-Obs.: Se preferir, pode digitar os livros em uma pasta de costume do cartório e depois derecionar os arquivos para a pasta do sistema conforme demonstrado.
+*Obs.: Se preferir, pode digitar os livros em uma pasta de costume do cartório e depois derecionar os arquivos para a pasta do sistema conforme demonstrado.*
 
 Vejam como é digitalizado as folhas do livro no próximo passo.
 
@@ -57,7 +57,7 @@ Para digitalizar o livro para o sistema, basta acessar o *(Menu RCPN > Digitaliz
 
 **a. Tipo do livro:** Mostra todos os livros criados no *(Menu RCPN)*, basta selecionar qual você quer realizar a digitalização.
 
-**b. Número do livro:** Utilizado para informar o número do livro.
+**b. Número do livro:** Utilizado para informar o número do livro a ser digitalizado.
 
 ![numero_livro](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/2.PNG)
 
@@ -65,8 +65,13 @@ Para digitalizar o livro para o sistema, basta acessar o *(Menu RCPN > Digitaliz
 
 **d. Sequência:** Pode-se escolher pelas duas opções, Página e Frente/Verso. Escolha a opção de sequência do seu livro.
 
-**e. Local:** Local onde se encontra as imagens que foram digitalizadas e salvas no seu computador. Ex.: \\srvaciv\ondrive\servidoracsiv\ged\rcpn\livros\a.
+**e. Local:** Local onde se encontra as imagens que foram digitalizadas e salvas no seu computador. **Ex.:** (\\srvaciv\ondrive\servidoracsiv\ged\rcpn\livros\a).
+
+Copiar e colar o endereço para localizar onde está a pasta. 
+Quando fizer isto criar uma pasta com o número do livro digitalizado e colar as imagens renomeadas lá.
+
+![local](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/RENOMEADAS.PNG)
 
 ![local](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/3.PNG)
 
-**f. Posição:** Utilizado para definir a posição dos arquivos digitalizados da scanner para a pasta do computador. **Ex.:** *Ao digitalizar um arquivo da scanner para o computador, ele é digitalizado com o nome file_0001.pdf*, sendo assim, ao definir a posição, o sistema vai entender a posição de cada arquivo digitalizado na pasta. 
+**f. Posição:** Utilizado para definir a posição dos arquivos digitalizados do scanner para a pasta do computador. **Ex.:** *Ao digitalizar um arquivo do scanner para o computador, ele é digitalizado com o nome file_0001.pdf*, sendo assim, precisamos definir qual a posicao inicial e final para pegar a seguencia do arquivo corretamente.
