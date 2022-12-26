@@ -35,7 +35,7 @@ Segundo passo é necessário a criação de uma pasta dentro do seu computador, 
 
 O ideal é criar as pastas conforme imagem anterior, note que no exemplo utilizado, a pasta se encontra em *(\\srvaciv\ondrive\servidoracsiv\ged\rcpn\livros\a)*, o caminho da pasta é o próprio caminho do sistema. Dentro da pasta Livros, se encontra os livros do cartório, cada um, separado por nome e sua letra.
 
-*Obs.: Se preferir, pode digitar os livros em uma pasta de costume do cartório e depois derecionar os arquivos para a pasta do sistema conforme demonstrado.*
+*Obs.: Se preferir, pode digitalizar os livros em uma pasta de costume do cartório e depois derecionar os arquivos para a pasta do sistema conforme demonstrado.*
 
 Vejam como é digitalizado as folhas do livro no próximo passo.
 
@@ -55,7 +55,7 @@ Para digitalizar o livro para o sistema, basta acessar o *(Menu RCPN > Digitaliz
 
 ![livro](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/1.PNG)
 
-**a. Tipo do livro:** Mostra todos os livros criados no *(Menu RCPN)*, basta selecionar qual você quer realizar a digitalização.
+**a. Tipo do livro:** Mostra todos os livros criados no *(Menu RCPN)*, basta selecionar qual tipo do livro deseja realizar a digitalização.
 
 **b. Número do livro:** Utilizado para informar o número do livro a ser digitalizado.
 
@@ -74,7 +74,7 @@ Quando fizer isto criar uma pasta com o número do livro digitalizado e colar as
 
 ![local](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/3.PNG)
 
-**f. Posição:** Utilizado para definir a posição dos arquivos digitalizados do scanner para a pasta do computador. **Ex.:** *Ao digitalizar um arquivo do scanner para o computador, ele é digitalizado com o nome file_0001.pdf*, sendo assim, precisamos definir qual a posicao inicial e final para pegar a seguencia do arquivo corretamente.
+**f. Posição:** Utilizado para definir a posição dos arquivos digitalizados do scanner para a pasta do computador. **Ex.:** *Ao digitalizar um arquivo do scanner para o computador, ele é digitalizado com o nome file_0001.pdf*, sendo assim, precisamos definir qual a posicao inicial e final para pegar a sequência do arquivo corretamente.
 
 **5° Passo:** *Pesquisar > Confirmar.*
 
