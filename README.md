@@ -81,3 +81,5 @@ Quando fizer isto criar uma pasta com o número do livro digitalizado e colar as
 **5° Passo:** *Pesquisar > Confirmar.*
 
 ![digitalizado](https://github.com/gislenetavaresacsiv/DigitalizacaoRCPN/blob/main/IMAGENS/DIGITALIZACAO_REALIZADA_COM_SUCESSO.PNG)
+
+
